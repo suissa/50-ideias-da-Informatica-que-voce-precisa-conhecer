@@ -63,3 +63,8 @@ Nessa lista teremos desde conceitos das portas lógicas até à Programação de
 ---
 - GIT
 - SVN
+---
+- Bots
+- Inteligência Artificial
+- Internet das Coisas
+
