@@ -1,2 +1,17 @@
-# 50-ideias-da-Informatica-que-voce-precisa-conhecer
-50 ideias da Informática que você precisa conhecer!
+# 50 ideias da Informática que você precisa conhecer!
+
+Esse repositório servirá para votarmos quais as 50 ideias mais importantes <br>
+que mudaram e ainda mudarão a vida das pessoas.
+
+Nessa lista teremos desde conceitos das portas lógicas até à Programação de Alto Nível.
+
+
+## Lista para votação
+
+- portas lógicas
+- processamento assíncrono
+- processamento concorrente
+- processamento paralelo
+
+
+
