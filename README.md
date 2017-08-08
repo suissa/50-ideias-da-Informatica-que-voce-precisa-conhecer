@@ -3,6 +3,10 @@
 Esse repositório servirá para votarmos quais as 50 ideias mais importantes <br>
 que mudaram e ainda mudarão a vida das pessoas.
 
+Ideia baseada no seguinte livro:
+
+![50 ideias da Física Quântica que você precisa conhecer](http://i.imgur.com/TUcOhla.png)
+
 Nessa lista teremos desde conceitos das portas lógicas até à Programação de Alto Nível.
 
 
