@@ -21,10 +21,19 @@ Nessa lista teremos desde conceitos das portas lógicas até à Programação de
 - Processamento paralelo
 - Computação Quântica
 ---
+- Compiladores
+- Interpretadores
+- Máquinas Virtuais
+---
 - TCP/IP
 - HTTP
 - Sockets
 - P2P
+---
+- Sistemas Operacionais
+- Unix
+- Linux
+- Windows
 ---
 - Torrent
 - Criptomoedas
@@ -40,4 +49,13 @@ Nessa lista teremos desde conceitos das portas lógicas até à Programação de
 - Tipos
 ----
 - Bancos de Dados
-
+- Relacionais
+- Orientados a Objetos
+- de Grafos
+- de Documentos
+- de Chave/Valor
+---
+- IDEs
+---
+- GIT
+- SVN
