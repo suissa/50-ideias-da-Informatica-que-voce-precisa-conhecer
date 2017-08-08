@@ -8,10 +8,18 @@ Nessa lista teremos desde conceitos das portas lógicas até à Programação de
 
 ## Lista para votação
 
-- portas lógicas
-- processamento assíncrono
-- processamento concorrente
-- processamento paralelo
+- Lei de Moore
+- BIT
+- Byte
+- Octal
+- Hexadecimal
+- Tabela ASCII
+---
+- Portas lógicas
+- Processamento assíncrono
+- Processamento concorrente
+- Processamento paralelo
+- Computação Quântica
 ---
 - TCP/IP
 - HTTP
@@ -30,5 +38,6 @@ Nessa lista teremos desde conceitos das portas lógicas até à Programação de
 - Programação Reativa
 ----
 - Tipos
-
+----
+- Bancos de Dados
 
