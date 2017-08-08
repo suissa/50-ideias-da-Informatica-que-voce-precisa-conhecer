@@ -13,5 +13,13 @@ Nessa lista teremos desde conceitos das portas lógicas até à Programação de
 - processamento concorrente
 - processamento paralelo
 
+- TCP/IP
+- HTTP
+- Sockets
+- P2P
+
+- Torrent
+- Criptomoedas
+- Blockchain
 
 
