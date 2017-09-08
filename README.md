@@ -70,3 +70,5 @@ Nessa lista teremos desde conceitos das portas lógicas até à Programação de
 - Aprendizado de Máquinas
 ---
 - Progressive Web Apps
+---
+- Open Source Initiative
