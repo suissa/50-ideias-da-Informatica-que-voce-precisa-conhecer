@@ -72,3 +72,4 @@ Nessa lista teremos desde conceitos das portas lógicas até à Programação de
 - Progressive Web Apps
 ---
 - Open Source Initiative
+- Code Girl
