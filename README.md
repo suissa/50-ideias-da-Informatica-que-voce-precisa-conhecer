@@ -67,4 +67,5 @@ Nessa lista teremos desde conceitos das portas lógicas até à Programação de
 - Bots
 - Inteligência Artificial
 - Internet das Coisas
-
+---
+- Progressive Web Apps
