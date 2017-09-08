@@ -73,3 +73,4 @@ Nessa lista teremos desde conceitos das portas lógicas até à Programação de
 ---
 - Open Source Initiative
 - Code Girl
+- JS4Girls
